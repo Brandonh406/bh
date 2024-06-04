@@ -15,7 +15,7 @@
         <button onclick="alert('¡Has hecho clic en el botón!')">Brandon Rodrigo Hernández Vásquez</button>
     </main>
     <footer>
-        <p>El hosting utilizado es "50webs" y el dominio de "freenom"</p>
+        <p>El hosting y dominio utilizado es github</p>
     </footer>
 </body>
 </html>
